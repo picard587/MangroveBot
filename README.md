@@ -31,6 +31,8 @@ The Automatic Planting Seed Robot combines power, precision, and durability to r
 ![demo](https://github.com/picard587/MangroveBot/blob/main/E.jpg?raw=true)
 
 ![demo](https://github.com/picard587/MangroveBot/blob/main/releses%20mechanism.png2.png?raw=true)
+![demo](https://github.com/picard587/MangroveBot/blob/main/remote%20control.png?raw=true)
+![demo](https://github.com/picard587/MangroveBot/blob/main/releses%20mechanism.png2.png?raw=true)
 
 
 
