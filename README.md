@@ -24,6 +24,11 @@ Coastal Restoration: Ideal for planting vegetation to stabilize dunes and protec
 Large-Scale Agriculture: Efficiently plants crops in arid or rough terrains where traditional equipment struggles.
 The Automatic Planting Seed Robot combines power, precision, and durability to revolutionize planting processes, making it an indispensable tool for eco-restoration and large-scale agricultural projects.
 
+![demo](https://github.com/picard587/MangroveBot/blob/main/A.jpg?raw=true)
+![demo](https://github.com/picard587/MangroveBot/blob/main/B.jpg?raw=true)
+![demo](https://github.com/picard587/MangroveBot/blob/main/C.jpg?raw=true)
+![demo](https://github.com/picard587/MangroveBot/blob/main/D.jpg?raw=true)
+![demo](https://github.com/picard587/MangroveBot/blob/main/E.jpg?raw=true)
 
 
 
